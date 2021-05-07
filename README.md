@@ -1,8 +1,8 @@
 <p align="center">
-    <img alt="Solana" src="https://i.imgur.com/uBVzyX3.png" width="250" />
+    <img alt="PowerChain" src="https://i.imgur.com/ffMPf1i.png" width="250" />
 </p>
 
-# Solana Explorer
+# PowerChain Explorer
 
 ## Development
 
